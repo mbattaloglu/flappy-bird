@@ -1,2 +1,3 @@
-# flappy-bird
- Flappy Bird Game
+# Flappy Bird
+ 
+ Flappy Bird game to understand basic Unity methods, mechanics and components.
